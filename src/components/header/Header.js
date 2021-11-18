@@ -14,7 +14,7 @@ function Header() {
                 <Navbar.Collapse id="navbarScroll">
                 <Nav className="col-lg-12 col-md-12"  navbarScroll>
                     <form class='d-flex col-md-4'>
-                            <input class="form-control me-2 border-0 border-bottom" type="search" placeholder="Search" aria-label="O que está procurando?"/>
+                            <input class="form-control me-2 border-0 border-bottom" type="search" placeholder="O que está procurando?"/>
                             <i><FaSearch/></i>
                     </form>
                     <ul class="navbar-nav col-md-6 d-flex justify-content-end" >
